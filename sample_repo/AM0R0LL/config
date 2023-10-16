@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/TRSC25/AM0R0LL.git
+	fetch = +refs/*:refs/*
+	mirror = true

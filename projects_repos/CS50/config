@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/00110010-Cosmo50/CS50.git

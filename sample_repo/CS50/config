@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/00110010-Cosmo50/CS50.git
+	fetch = +refs/*:refs/*
+	mirror = true
